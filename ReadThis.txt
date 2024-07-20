@@ -1,0 +1,7 @@
+1-) Add a slider and add texts named "50" and "Audio" next to it.
+2-) Put the code into the slider and replace the text with "0" instead of "Volumetext".
+3-)Then hold the Slider and throw it into the "slider" section in the code.
+4-) Move the "handle" inside the slider to the middle.
+5-) If you have any problems, write to me.
+
+"Look at the pictures"
